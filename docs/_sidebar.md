@@ -8,6 +8,7 @@
         - [中继代币](zh-cn/contract/token/relay.token.md)
         - [兑换合约](zh-cn/contract/transaction/bridge.md)
         - [交易合约](zh-cn/contract/transaction/match.md)
+        - [创建账号](zh-cn/contract/System/newaccount.md)
 - 博客
     - 关于文档的文档
         - [文档搭建介绍](example/doc_introduction.md)
