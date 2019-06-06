@@ -57,17 +57,6 @@ void vote( const account_name voter, const account_name bpname, const asset stak
 2. 根据投票数减少相应用户余额
 3. 增加节点的总票数， 结算节点当前总票龄
 
-{
-        "name": "revote",
-        "base": "",
-        "fields": [
-          {"name":"voter",     "type":"account_name"},
-          {"name":"frombp",    "type":"account_name"},
-          {"name":"tobp",      "type":"account_name"},
-          {"name":"restake",   "type":"asset"}
-        ]
-    },
-
 ### 4. 解冻
 
 ```cpp
