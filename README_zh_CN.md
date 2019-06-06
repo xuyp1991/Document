@@ -17,7 +17,7 @@ sudo npm i docsify-cli -g
 从github上拉取项目，使用docsify可以在本地启动
 
 ```bash
-git https://github.com/eosforce/Documentation.git
+https://github.com/codexnetwork/Documentation.git
 cd Documentation/docs
 docsify serve .
 ```

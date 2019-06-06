@@ -17,7 +17,7 @@ sudo npm i docsify-cli -g
 get docs, then start:
 
 ```bash
-git https://github.com/eosforce/Documentation.git
+https://github.com/codexnetwork/Documentation.git
 cd Documentation/docs
 docsify serve .
 ```
