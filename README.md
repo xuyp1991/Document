@@ -2,7 +2,7 @@
 
 ---------------------------------------
 
-https://eosforce.github.io/Documentation/#/
+https://github.com/codexnetwork/Documentation/#/
 
 [中文](README_zh_CN.md)
 

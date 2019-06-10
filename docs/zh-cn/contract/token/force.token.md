@@ -99,7 +99,7 @@ void closecast(account_name to,int32_t finish_block);
 
 ## ABI
 
-- [eosio.token](https://github.com/eosforce/eosforce/blob/release/contracts/eosio.token/eosio.token.abi)
+- [force.token](https://github.com/codexnetwork/codex.relay/blob/develop/contracts/force.token/force.token.abi)
 
 ```json
 {

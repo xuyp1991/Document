@@ -112,7 +112,7 @@ void setminordqty(account_name exc_acc, uint32_t pair_id, asset min_qty);
 
 ## ABI
 
-- [eosio.token](https://github.com/eosforce/eosforce/blob/release/contracts/eosio.token/eosio.token.abi)
+- [sys.match](https://github.com/codexnetwork/codex.relay/blob/develop/contracts/sys.match/sys.match.abi)
 
 ```json
 {

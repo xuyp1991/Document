@@ -41,10 +41,10 @@
 示例：
 
 ```markdown
-这是去往 [eosforce](https://www.eosforce.io/) 的链接。
+这是去往 [codex](http://www.codex.network) 的链接。
 ```
 
-这是去往 [eosforce](https://www.eosforce.io/) 的链接。
+这是去往 [codex](http://www.codex.network) 的链接。
 
 这是一个内部文档的连接：
 
@@ -149,10 +149,10 @@
 示例：
 
 ```markdown
-![Logo](https://www.eosforce.io/img/logo.png)
+![Logo](http://www.codex.network/img/logo.png)
 ```
 
-![Logo](https://www.eosforce.io/img/logo.png)
+![Logo](http://www.codex.network/img/logo.png)
 
 # 高阶语法
 

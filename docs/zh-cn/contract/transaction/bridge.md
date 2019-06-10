@@ -171,7 +171,7 @@ void removemarket(name trade,account_name trade_maker,account_name base_recv,acc
 
 ## ABI
 
-- [eosio.token](https://github.com/eosforce/eosforce/blob/release/contracts/eosio.token/eosio.token.abi)
+- [sys.bridge](https://github.com/codexnetwork/codex.relay/blob/develop/contracts/sys.bridge/sys.bridge.abi)
 
 ```json
 {

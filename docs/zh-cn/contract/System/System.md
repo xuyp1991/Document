@@ -238,7 +238,7 @@ void refund( account_name owner );
 
 
 ## abi
-- [System](https://github.com/eosforce/eosforce/blob/release/contracts/System02/System02.abi)
+- [System]https://github.com/codexnetwork/codex.relay/blob/develop/contracts/force.system/force.system.abi)
   
 ```json
 {

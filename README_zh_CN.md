@@ -1,8 +1,8 @@
-# Eosforce 开发者文档
+# Codex 开发者文档
 
 ---------------------------------------
 
-https://eosforce.github.io/Documentation/#/
+https://github.com/codexnetwork/Documentation/#/
 
 本文档基于docsify文档系统
 

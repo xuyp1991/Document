@@ -106,7 +106,7 @@ void claim(name chain,asset quantity,account_name receiver);
 
 ## ABI
 
-- [eosio.token](https://github.com/eosforce/eosforce/blob/release/contracts/eosio.token/eosio.token.abi)
+- [relay.token](https://github.com/codexnetwork/codex.relay/blob/develop/contracts/relay.token/relay.token.abi)
 
 ```json
 {
